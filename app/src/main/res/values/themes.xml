@@ -16,7 +16,7 @@
     </style>
     <!--  style to change full app's text color and font size  -->
     <style name="AllTextViewColorAndSize">
-        <item name="android:textColor">@color/black </item>
+        <item name="android:textColor">@color/purple_700</item>
         <item name="android:textSize">20sp</item>
     </style>
     <!--  style to change team 1 score text color and font size  -->
